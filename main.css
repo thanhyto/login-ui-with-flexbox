@@ -1,9 +1,11 @@
-element.style{
-
+body{
+    
+    margin: 0px;
 }
 #screen{
     height: 100vh;
     width: 100vw;
+    flex-flow: column;
     background-color: whitesmoke;
     justify-content: center;
     align-items: center;
