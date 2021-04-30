@@ -55,7 +55,7 @@ button{
 
     margin: 3em;
     background: cornflowerblue;
-    
+    outline: none;
     border: none;
     border-radius: 30px;
  
